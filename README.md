@@ -1,5 +1,7 @@
 # Basketboard
 
+**Live demo: [basketboard.streamlit.app](https://basketboard.streamlit.app/)**
+
 Basketboard analyzes two years of real e-commerce transaction data from a UK-based online retailer, running product analytics workflows — churn, retention, cohort analysis, behavioral segmentation — with SQL as the primary analytical layer.
 
 ---
