@@ -1,0 +1,6 @@
+repeat_bucket,sort_order,total_customers,retained_customers,retention_pct
+One-time only,1,1620,365,22.5
+Within 7 days,2,596,343,57.6
+8-30 days,3,781,510,65.3
+31-90 days,4,1358,844,62.2
+90+ days,5,1523,827,54.3

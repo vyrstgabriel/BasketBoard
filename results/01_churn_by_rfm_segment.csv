@@ -1,0 +1,6 @@
+rfm_tier,total_customers,churned_customers,churn_rate_pct,avg_revenue_per_customer,avg_orders,risk_level
+At Risk,934,934,100.0,904.86,2.4,Critical
+Loyal,745,745,100.0,2815.11,7.2,Critical
+Lost,1926,1268,65.8,625.52,1.5,High
+Champions,1902,36,1.9,7074.34,13.7,Healthy
+New,371,6,1.6,379.72,1.0,Healthy
