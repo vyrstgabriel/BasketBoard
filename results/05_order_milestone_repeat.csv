@@ -1,0 +1,11 @@
+order_milestone,eligible_customers,repeated_within_90d,repeat_rate_pct,outcome_definition
+1,4326,1899,43.9,Purchase within 90 days after milestone
+2,2840,1493,52.6,Purchase within 90 days after milestone
+3,2011,1185,58.9,Purchase within 90 days after milestone
+4,1509,930,61.6,Purchase within 90 days after milestone
+5,1151,785,68.2,Purchase within 90 days after milestone
+6,898,623,69.4,Purchase within 90 days after milestone
+7,709,512,72.2,Purchase within 90 days after milestone
+8,557,435,78.1,Purchase within 90 days after milestone
+9,453,369,81.5,Purchase within 90 days after milestone
+10,364,304,83.5,Purchase within 90 days after milestone

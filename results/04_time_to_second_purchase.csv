@@ -1,6 +1,5 @@
-repeat_bucket,sort_order,total_customers,retained_customers,retention_pct
-One-time only,1,1620,365,22.5
-Within 7 days,2,596,343,57.6
-8-30 days,3,781,510,65.3
-31-90 days,4,1358,844,62.2
-90+ days,5,1523,827,54.3
+second_purchase_timing,sort_order,eligible_customers,later_repeat_customers,later_repeat_rate_pct,feature_window,outcome_window
+Within 7 days,1,329,139,42.2,Days 0-90 after first observed order,Days 91-180 after first observed order
+8-30 days,2,496,282,56.9,Days 0-90 after first observed order,Days 91-180 after first observed order
+31-90 days,3,915,540,59.0,Days 0-90 after first observed order,Days 91-180 after first observed order
+No second order in first 90 days,4,2281,617,27.0,Days 0-90 after first observed order,Days 91-180 after first observed order

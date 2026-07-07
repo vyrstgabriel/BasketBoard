@@ -1,6 +1,6 @@
-rfm_tier,total_customers,churned_customers,churn_rate_pct,avg_revenue_per_customer,avg_orders,risk_level
-At Risk,934,934,100.0,904.86,2.4,Critical
-Loyal,745,745,100.0,2815.11,7.2,Critical
-Lost,1926,1268,65.8,625.52,1.5,High
-Champions,1902,36,1.9,7074.34,13.7,Healthy
-New,371,6,1.6,379.72,1.0,Healthy
+observation_end,outcome_end,rfm_tier,total_customers,churned_customers,churn_rate_pct,avg_gross_revenue_at_cutoff,avg_net_revenue_at_cutoff,total_gross_revenue_at_cutoff,total_net_revenue_at_cutoff,avg_orders_at_cutoff,risk_level
+2011-09-10,2011-12-09,Lost,1742,1416,81.3,314.75,305.19,548286.3,531648.88,1.4,Critical
+2011-09-10,2011-12-09,At Risk,907,606,66.8,2257.48,1956.86,2047535.08,1774867.57,4.9,High
+2011-09-10,2011-12-09,New,338,202,59.8,342.94,333.72,115913.52,112798.22,1.0,Moderate
+2011-09-10,2011-12-09,Loyal,729,388,53.2,902.21,802.39,657712.98,584941.49,2.8,Moderate
+2011-09-10,2011-12-09,Champions,1565,377,24.1,6748.31,6510.94,10561108.13,10189626.7,13.4,Healthy
